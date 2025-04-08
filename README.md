@@ -1,14 +1,4 @@
-# Data-Analysis-Portfolio
-My portfolio showcasing different data Analysis Projects:
-## Network Analysis
-## Analysis of Insurance Data
-## Data Cleaning of scraped data
-## Marketing Campaign Analysis
-## E-commerce Data
-## Recon_AI Analysis
-## Price prdiction of Bulldozer
-
-## Marketing Campaign Analysis Report
+# Marketing Campaign Analysis Report
 
 ### Introduction
 Welcome to our Marketing Campaign Analysis Report! This report explores how our campaigns are performing, digging into metrics like ROI, CTR, and Acquisition Cost. We've got a bunch of neat charts to break down the data by segments, locations, audiences, and more. Let’s dive into the insights!
